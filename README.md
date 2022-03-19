@@ -8,9 +8,9 @@ Hi, I'm Asia (she/her)—a junior at Georgetown University majoring in computer 
 - View my portfolio: [sites.google.com/view/asiadubois/home](https://sites.google.com/view/asiadubois/home) 
 
 ## 💻 Current CS Courses
-- Computational Structures
-- Intro to Network Security
-- Ethics of AI
+- Operating Systems
+- Intro to Algorithms
+- Handheld Device Programming
 
 
 ## Connect with me! 
